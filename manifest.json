@@ -1,0 +1,16 @@
+{
+    "id": "org.stremio.australianfm",
+    "version": "1.0.0",
+    "name": "Australian FM Radio",
+    "description": "Listen to Australian FM radio stations via Stremio.",
+    "types": ["music"],
+    "idPrefixes": ["triplej:", "nova:", "smoothfm:", "star:"],
+    "catalogs": [
+        {
+            "type": "music",
+            "id": "australianfm",
+            "name": "Australian FM Radio"
+        }
+    ],
+    "resources": ["catalog", "meta", "stream"]
+}
