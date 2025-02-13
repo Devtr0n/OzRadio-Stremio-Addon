@@ -22,15 +22,15 @@ Make sure you have the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Devtr0n/OzRadio-Stremio-Addon.git
-   cd OzRadio-Stremio-Addon```
+   cd OzRadio-Stremio-Addon
 
 2. **Install Dependencies**
-   ```
-   npm install```
-
+   ```bash
+   npm install
+   
 3. **Start the server**
-   ```
-   npm start```
+   ```bash
+   npm start
 
 ### Configuration
 The addon runs on port 3000 by default. You can change this by setting the PORT environment variable:
@@ -60,15 +60,15 @@ The following streams are available for Triple J:
 ### Nova Station Streams
 The following streams are available for Nova:
 
-Nova Adelaide 91.9 FM
-Nova Perth 93.7 FM
-Nova Sydney 96.9 FM
-Nova Melbourne 100 FM
-Nova Brisbane 106.9 FM
-Nova Fresh Country
-Nova Nation Sydney
-Nova Throwbacks
-Nova 90s
+- Nova Adelaide 91.9 FM
+- Nova Perth 93.7 FM
+- Nova Sydney 96.9 FM
+- Nova Melbourne 100 FM
+- Nova Brisbane 106.9 FM
+- Nova Fresh Country
+- Nova Nation Sydney
+- Nova Throwbacks
+- Nova 90s
 
 ### Smooth FM Station Streams
 The following stream is available for Smooth FM:
